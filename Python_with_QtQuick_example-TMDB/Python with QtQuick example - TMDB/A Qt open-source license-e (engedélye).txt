@@ -1,7 +1,0 @@
-Ha a Qt open-source verzióját használjuk applikációfejlesztésre, akkor a kódot NEM terjeszthetjük
-.exe-vé konvertálva. De ha saját magunknak, vagy egy cégen belül készítjük a programot (tehát NEM 
-eladásra), akkor MINDEN gépre telepíteni kell a Python-t is és a PySide6-ot is, és akkor benne
-maradunk az open-source license követelményekben. (Az open-source license olyan licenc, amely 
-biztosítja a licencelt dolog – ami legtöbbször egy számítógépes program vagy szoftver – forráskódjának
-nyitottságát. A szabad vagy nyílt forráskódú szoftverek (FLOSS) szabadon használható, másolható, terjeszthető, 
-tanulmányozható és módosítható számítógépes programok).
